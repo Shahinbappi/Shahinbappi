@@ -11,7 +11,7 @@
   
 <!--   <h3 align="">Hello World</h3>
   <p align="center">
-    It's 彡×͜×[Help Tools]×͜×彡
+    It's আপনার নাম
     <br />
     <a href="https://github.com/Ign0r3dH4x0r?tab=repositories"><strong>Explore my projects »</strong></a>
     <br />
@@ -21,7 +21,7 @@
   ```javascript
   import { Profile } from "github";
   Profile.set({
-    name:"彡×͜×[Help Tools]×͜×彡",
+    name:"আপনার নাম",
     age:19,
     occupation:"student"
   });
@@ -111,8 +111,7 @@ Formally, I'm a Full-stack Web Developer and DevOps Engineer. Besides, I'm a Lin
 
 ## Roadmap
 
-- [x] Essential Web Development
-- [ ] Android App Development 
+- [x] Essential Web development
 - [x] Dig more in SPA
 - [x] MERN Stack
 - [x] Hybrid app development
@@ -137,9 +136,9 @@ Feel free to contact me.
 ### ***Personal*** 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sowmik.reborn)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ignoredhaxor)&nbsp;
-[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sowmik.reborn)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LodingHackyou420)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/ONLINE_JOB_SHAR)&nbsp;
+[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://t.me/ONLINE_JOB_SHAR)&nbsp;
 
 ### ***Work***
 
